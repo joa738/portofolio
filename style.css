@@ -44,8 +44,6 @@ body{
     flex-direction: column;
     background-image:url(style/images/background.png);
     background-size: cover;
-    width: 1920;
-    height: 1080px;
 }
 
 #apresentation{
